@@ -1,0 +1,7 @@
+# SQL Learning Track
+
+This repository serves as a personal documentation of my data analytics learning journey. 
+
+### 📚 Course Reference & Credits
+All SQL queries and database conceptual exercises stored in this repository are based on the curriculum and tutorials from **Alex The Analyst** on YouTube. 
+- Channel: [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst)
